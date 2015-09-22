@@ -1,16 +1,17 @@
 	<footer class="page-footer blue">
       <div class="row container">
         <div class="col m8 s12">
-          <h5 class="white-text">Name of Company</h5>
+          <h5 class="white-text">AISU First Robotics</h5>
           <p class="white-text">A brief little description would go here. You could place your mission here as well.</p>
         </div>
 
 				<div class="col offset-m1 m2 s12">
           <h5 class="white-text">Navigate</h5>
           <ul>
-            <li><a class="white-text" href="#">Link 1</a></li>
-            <li><a class="white-text" href="#">Link 2</a></li>
-            <li><a class="white-text" href="#">Link 3</a></li>
+            <li><a class="white-text" href="index.html">Home</a></li>
+            <li><a class="white-text" href="firstRobotics.html">First Robotics</a></li>
+            <li><a class="white-text" href="team.html">Our Team</a></li>
+            <li><a class="white-text" href="contactUs.html">Contact Us</a></li>
           </ul>
         </div>
       </div>
@@ -18,7 +19,7 @@
     <div class="footer-copyright">
       <div class="row container">
 				<div class="col m9 s6 margin-bottom-10 margin-top-10">
-       		Place your copyright here
+       		&copy; 2015 Austin Miles. All Rights Reserved.
 				</div>
 
 				<div class="col m3 s3 margin-bottom-10 margin-top-10">
