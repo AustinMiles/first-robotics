@@ -11,6 +11,7 @@
             <li><a class="white-text" href="index.html">Home</a></li>
             <li><a class="white-text" href="firstRobotics.html">First Robotics</a></li>
             <li><a class="white-text" href="team.html">Our Team</a></li>
+            <li><a class="white-text" href="calendar.html">Calendar</a></li>
             <li><a class="white-text" href="contactUs.html">Contact Us</a></li>
           </ul>
         </div>

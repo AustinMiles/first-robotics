@@ -13,6 +13,7 @@
       <li><a href="index.html">Home</a></li>
       <li><a href="firstRobotics.html">First Robotics</a></li>
       <li><a href="team.html">Our Team</a></li>
+      <li><a href="calendar.html">Calendar</a></li>
       <li><a href="contactUs.html">Contact Us</a></li>
     </ul>
 
@@ -23,6 +24,8 @@
       <li><a href="firstRobotics.html">First Robotics</a></li>
       <li class="divider"></li>
       <li><a href="team.html">Our Team</a></li>
+      <li class="divider"></li>
+      <li><a href="calendar.html">Calendar</a></li>
       <li class="divider"></li>
       <li><a href="contactUs.html">Contact Us</a></li>
     </ul>
