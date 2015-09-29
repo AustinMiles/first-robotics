@@ -8,7 +8,7 @@
 <div class="navbar-fixed">
   <nav role="navigation" class="blue">
   <div class="nav-wrapper" >
-    <a id="logo-container" href="#" class="brand-logo"><img src="#" alt="" height="55" style="margin-left: 20%;"></a>
+    <a id="logo-container" href="index.html" class="brand-logo"><img src="images/Logo.png" alt="AISU Robotics Logo" height="55" style="margin-left: 20%;"></a>
     <ul class="right hide-on-med-and-down">
       <li><a href="index.html">Home</a></li>
       <li><a href="firstRobotics.html">First Robotics</a></li>
